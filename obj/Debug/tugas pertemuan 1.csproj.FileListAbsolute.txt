@@ -1,0 +1,10 @@
+D:\semester 5\tugas pertemuan 1\tugas pertemuan 1\bin\Debug\tugas pertemuan 1.exe.config
+D:\semester 5\tugas pertemuan 1\tugas pertemuan 1\bin\Debug\tugas pertemuan 1.exe
+D:\semester 5\tugas pertemuan 1\tugas pertemuan 1\bin\Debug\tugas pertemuan 1.pdb
+D:\semester 5\tugas pertemuan 1\tugas pertemuan 1\obj\Debug\tugas pertemuan 1.csprojResolveAssemblyReference.cache
+D:\semester 5\tugas pertemuan 1\tugas pertemuan 1\obj\Debug\tugas_pertemuan_1.Form1.resources
+D:\semester 5\tugas pertemuan 1\tugas pertemuan 1\obj\Debug\tugas_pertemuan_1.Properties.Resources.resources
+D:\semester 5\tugas pertemuan 1\tugas pertemuan 1\obj\Debug\tugas pertemuan 1.csproj.GenerateResource.Cache
+D:\semester 5\tugas pertemuan 1\tugas pertemuan 1\obj\Debug\tugas pertemuan 1.exe
+D:\semester 5\tugas pertemuan 1\tugas pertemuan 1\obj\Debug\tugas pertemuan 1.pdb
+D:\semester 5\tugas pertemuan 1\tugas pertemuan 1\obj\Debug\tugas_pertemuan_1.Form2.resources
